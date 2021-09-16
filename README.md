@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="background-color: #312e38; border-radius: 10px;" alt="docker-logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-owf75y%2F&psig=AOvVaw1T7I5uk1uFYuv89f-hU62x&ust=1631878927801000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjkmr21g_MCFQAAAAAdAAAAABAJ" />
+  <img style="background-color: #312e38; border-radius: 10px;" alt="kubernetes-logo" src="https://www.edivaldobrito.com.br/wp-content/uploads/2020/12/kubernetes-1-20-lancado-com-kubectl-debug-em-beta-e-muito-mais.jpg" />
 </h1>
 
 ## 🔖 Sobre o projeto
